@@ -1,0 +1,50 @@
+body {
+overflow-x: hidden;
+overflow: hidden;
+}
+
+
+.tidslinje {
+  font-size: 3rem;
+  font-family: 'Playfair Display', serif;
+  position: relative;
+  overflow: visible;
+}
+
+
+.year1, .year2, .year3, .year4, .idag {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+}
+
+#dagens-dato {
+  font-size: 3rem;
+  text-align: center;
+  min-width: 20vw;
+  font-family: 'Playfair Display', serif;
+
+}
+
+.arbejde365 {
+  background-color: rgb(51, 183, 51);
+  height: 4px;
+  width: 0vw;
+  position: absolute;
+  left: 25vw;
+  top: 40vh; 
+  z-index: 10;
+}
+
+#billede365 {
+  border-radius: 20%;
+  height: 40px;
+}
+
+.ArbejdeTekst {
+  font-size: 1.5rem;
+  font-family: 'Playfair Display', serif;
+  display: flex;
+  align-items: center;   /* Vertikal centrering */
+}

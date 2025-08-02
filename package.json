@@ -1,0 +1,24 @@
+{
+  "name": "cv-hjemmeside",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "echo \"No start script yet\""
+  },
+  "author": "Gustav Kjeldsen",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavKjeldsen/gustav.github.io.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/GustavKjeldsen/gustav.github.io/issues"
+  },
+  "homepage": "https://github.com/GustavKjeldsen/gustav.github.io#readme"
+}
